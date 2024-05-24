@@ -1,0 +1,96 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "/Users/luanta/CMPM 120/PlatformImprovement/assets/platformer-level-1.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInEditor": 1
+        },
+        "/Users/luanta/CMPM 120/Mappy/assets/tilemap01.tmx": {
+            "scale": 0.7243749999999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 360.3106125970665,
+                "y": 240.20707506471098
+            }
+        },
+        "/Users/luanta/CMPM 120/Mappy/assets/tilemap01.tmx#kenney_colored_packed": {
+            "scaleInDock": 1
+        },
+        "/Users/luanta/CMPM 120/Mappy/assets/tilemap02.tmx": {
+            "scale": 2.9786,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 42.63748069562882,
+                "y": 252.13187403478142
+            }
+        },
+        "/Users/luanta/CMPM 120/Mappy/assets/tilemap02.tmx#colored_packed": {
+            "scaleInDock": 1
+        },
+        "/Users/luanta/CMPM 120/Mappy/assets/tilemap05.tmx": {
+            "scale": 1.484,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 144.87870619946094,
+                "y": 352.4258760107817
+            }
+        },
+        "/Users/luanta/CMPM 120/Mappy/assets/tilemap05.tmx#colored_packed": {
+            "scaleInDock": 1
+        },
+        "/Users/luanta/CMPM 120/PlatformImprovement/assets/platformer-level-1.tmx": {
+            "scale": 1.281,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 32.006245120999225,
+                "y": 106.16705698672912
+            }
+        },
+        "/Users/luanta/CMPM 120/PlatformImprovement/assets/platformer-level-1.tmx#kenny_tilemap_packed": {
+            "scaleInDock": 1.6636
+        },
+        "platformer-level-1-map.tmx": {
+            "scale": 0.1759,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2418.988061398522,
+                "y": 1733.939738487777
+            }
+        },
+        "platformer-level-1-map.tmx#abstract-tileset": {
+            "scaleInDock": 0.5782
+        }
+    },
+    "last.exportedFilePath": "/Users/luanta/CMPM 120/PlatformImprovement/assets",
+    "last.imagePath": "/Users/luanta/CMPM 120/PlatformerLT/assets/Tile",
+    "map.height": 30,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "map.width": 90,
+    "openFiles": [
+        "/Users/luanta/CMPM 120/PlatformImprovement/assets/platformer-level-1.tmx"
+    ],
+    "project": "Starter Platformer.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "/Users/luanta/CMPM 120/PlatformImprovement/assets/platformer-level-1.tmx",
+        "/Users/luanta/CMPM 120/Mappy/assets/tilemap02.tmx",
+        "/Users/luanta/CMPM 120/Mappy/assets/tilemap01.tmx",
+        "/Users/luanta/CMPM 120/Mappy/assets/tilemap05.tmx",
+        "platformer-level-1-map.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 64,
+        "width": 64
+    }
+}
